@@ -1,0 +1,13 @@
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/target/
+.svn
+/activator
+/activator.bat
+/activator-launch-1.2.10.jar
+/.project
+/.classpath
+/.cache
